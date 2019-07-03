@@ -6,3 +6,11 @@ c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestC
 c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.csprojResolveAssemblyReference.cache
 c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.exe
 c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.pdb
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\bin\Debug\TestConsoleHtmlCodeReplace.exe.config
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.exe
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.pdb
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\bin\Debug\TestConsoleHtmlCodeReplace.exe
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\bin\Debug\TestConsoleHtmlCodeReplace.pdb
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\bin\Debug\HTMLCodeReplacer.dll
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\bin\Debug\HTMLCodeReplacer.pdb
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.csprojResolveAssemblyReference.cache

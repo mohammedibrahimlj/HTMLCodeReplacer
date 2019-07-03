@@ -3,3 +3,7 @@ c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLC
 c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.csprojResolveAssemblyReference.cache
 c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.dll
 c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.pdb
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\HTMLCodeReplacer\bin\Debug\HTMLCodeReplacer.dll
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\HTMLCodeReplacer\bin\Debug\HTMLCodeReplacer.pdb
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.dll
+C:\Users\mohammed.l\Documents\Visual Studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer-master\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.pdb

@@ -25,7 +25,7 @@ namespace HTMLCodeReplacer
                 Putdatastring = Putdatastring.Replace("&#160;", "");
                 Putdatastring = Putdatastring.Replace("&#32;", "");
                 Putdatastring = Putdatastring.Replace("&#33;", "!");
-                Putdatastring = Putdatastring.Replace("&#34;", "\"");
+                Putdatastring = Putdatastring.Replace("&#34;", @"""");
                 Putdatastring = Putdatastring.Replace("&#35;", "#");
                 Putdatastring = Putdatastring.Replace("&#36;", "$");
                 Putdatastring = Putdatastring.Replace("&#37;", "%");
@@ -83,7 +83,7 @@ namespace HTMLCodeReplacer
                 Putdatastring = Putdatastring.Replace("&#89;", "Y");
                 Putdatastring = Putdatastring.Replace("&#90;", "Z");
                 Putdatastring = Putdatastring.Replace("&#91;", "[");
-                Putdatastring = Putdatastring.Replace("&#92;", "\\");
+                Putdatastring = Putdatastring.Replace("&#92;", @"\");
                 Putdatastring = Putdatastring.Replace("&#93;", "]");
                 Putdatastring = Putdatastring.Replace("&#94;", "^");
                 Putdatastring = Putdatastring.Replace("&#95;", "_");
@@ -297,7 +297,7 @@ namespace HTMLCodeReplacer
                 Putdatastring = Putdatastring.Replace("&#936;", "Ψ");
                 Putdatastring = Putdatastring.Replace("&#937;", "Ω");
                 Putdatastring = Putdatastring.Replace("&nbsp;", "");
-                Putdatastring = Putdatastring.Replace("&quot;", "\"");
+                Putdatastring = Putdatastring.Replace("&quot;", "");
                 Putdatastring = Putdatastring.Replace("&amp;", "&");
                 Putdatastring = Putdatastring.Replace("&apos;", "'");
                 Putdatastring = Putdatastring.Replace("&lt;", "<");
@@ -466,12 +466,44 @@ namespace HTMLCodeReplacer
                 Putdatastring = Putdatastring.Replace("&Chi;", "Χ");
                 Putdatastring = Putdatastring.Replace("&Psi;", "Ψ");
                 Putdatastring = Putdatastring.Replace("&Omega;", "Ω");
+                Putdatastring = Putdatastring.Replace("&#127;", "");
+                Putdatastring = Putdatastring.Replace("&#128;", "€");
+                Putdatastring = Putdatastring.Replace("&#129;", "");
+                Putdatastring = Putdatastring.Replace("&#130;", "‚");
+                Putdatastring = Putdatastring.Replace("&#131;", "ƒ");
+                Putdatastring = Putdatastring.Replace("&#132;", "„");
+                Putdatastring = Putdatastring.Replace("&#133;", "…");
+                Putdatastring = Putdatastring.Replace("&#134;", "†");
+                Putdatastring = Putdatastring.Replace("&#135;", "‡");
+                Putdatastring = Putdatastring.Replace("&#136;", "ˆ");
+                Putdatastring = Putdatastring.Replace("&#137;", "‰");
+                Putdatastring = Putdatastring.Replace("&#138;", "Š");
+                Putdatastring = Putdatastring.Replace("&#139;", "‹");
+                Putdatastring = Putdatastring.Replace("&#140;", "Œ");
+                Putdatastring = Putdatastring.Replace("&#141;", "");
+                Putdatastring = Putdatastring.Replace("&#142;", "Ž");
+                Putdatastring = Putdatastring.Replace("&#143;", "");
+                Putdatastring = Putdatastring.Replace("&#144;", "");
+                Putdatastring = Putdatastring.Replace("&#145;", "‘");
+                Putdatastring = Putdatastring.Replace("&#146;", "’");
+                Putdatastring = Putdatastring.Replace("&#147;", "“");
+                Putdatastring = Putdatastring.Replace("&#148;", "”");
+                Putdatastring = Putdatastring.Replace("&#149;", "•");
+                Putdatastring = Putdatastring.Replace("&#150;", "–");
+                Putdatastring = Putdatastring.Replace("&#151;", "—");
+                Putdatastring = Putdatastring.Replace("&#152;", "˜");
+                Putdatastring = Putdatastring.Replace("&#153;", "™");
+                Putdatastring = Putdatastring.Replace("&#154;", "š");
+                Putdatastring = Putdatastring.Replace("&#155;", "›");
+                Putdatastring = Putdatastring.Replace("&#156;", "œ");
+                Putdatastring = Putdatastring.Replace("&#157;", "");
+                Putdatastring = Putdatastring.Replace("&#158;", "ž");
+                Putdatastring = Putdatastring.Replace("&#159;", "Ÿ");
             }
             catch
             {
             }
             
-
             return Putdatastring;
         }
     }
