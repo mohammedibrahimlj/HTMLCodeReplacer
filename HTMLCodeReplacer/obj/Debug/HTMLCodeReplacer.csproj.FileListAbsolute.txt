@@ -1,0 +1,5 @@
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\bin\Debug\HTMLCodeReplacer.dll
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\bin\Debug\HTMLCodeReplacer.pdb
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.csprojResolveAssemblyReference.cache
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.dll
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\HTMLCodeReplacer\obj\Debug\HTMLCodeReplacer.pdb

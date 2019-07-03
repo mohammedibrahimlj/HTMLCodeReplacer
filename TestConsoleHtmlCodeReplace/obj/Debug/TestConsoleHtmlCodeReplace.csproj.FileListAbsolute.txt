@@ -1,0 +1,8 @@
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\bin\Debug\TestConsoleHtmlCodeReplace.exe.config
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\bin\Debug\TestConsoleHtmlCodeReplace.exe
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\bin\Debug\TestConsoleHtmlCodeReplace.pdb
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\bin\Debug\HTMLCodeReplacer.dll
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\bin\Debug\HTMLCodeReplacer.pdb
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.csprojResolveAssemblyReference.cache
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.exe
+c:\users\mohammed.l\documents\visual studio 2015\Projects\HTMLCodeReplacer\TestConsoleHtmlCodeReplace\obj\Debug\TestConsoleHtmlCodeReplace.pdb
